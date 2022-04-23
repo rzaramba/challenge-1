@@ -8,9 +8,12 @@
 * Code is clean!
 
 ### Links
+
 [Deployed Application] (https://rzaramba.github.io/challenge-1/)
 
 ### Image of Website 
-![Screenshot-of-website] (rzaramba.github.io_challenge-1_.png)
+
+![rzaramba github io_challenge-1_](https://user-images.githubusercontent.com/103233128/164945964-6df36535-3306-4896-95d2-74806c2f2ab5.png)
+
 
 
