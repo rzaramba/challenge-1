@@ -7,4 +7,10 @@
 * CSS follows semantic structure
 * Code is clean!
 
+### Links
+[Deployed Application] (https://rzaramba.github.io/challenge-1/)
+
+### Image of Website 
+![Screenshot-of-website] (rzaramba.github.io_challenge-1_.png)
+
 
